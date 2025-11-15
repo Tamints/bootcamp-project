@@ -17,9 +17,9 @@ We are trying to make a prediction of Cardiovascular disease based on multiple f
 
 ![image](MAPvsagevsBMIY.png)
 
-![image](download(8).png)
+![image](download_(8).png)
 
-![image](newplot(3).png)
+![image](newplot_(3).png)
 
 
 ## Factors

@@ -13,17 +13,33 @@ We are trying to make a prediction of Cardiovascular disease based on multiple f
 
 ![image](download.png)
 
+All factor correlataion heat-map
+
 ![image](MAPvsage.png)
+
+MAP - Mean Arterial Blood Pressure VS Age Vs CVD
 
 ![image](MAPvsagevsBMIY.png)
 
+3D - Age Vs BMI Vs MAP
+
+![image](newplot(1).png)
+
+BMI vs Age CVD
+
 ![image](download(8).png)
+
+Cholesterol Vs Age Vs CVD
 
 ![image](newplot(3).png)
 
+Age Vs CVD
+
 ![image](newplot.png)
 
-![image](newplot(1).png)
+BP Vs CVD
+
+
 
 ## Factors
 1. MAP - Mean Arterial pressure

@@ -15,7 +15,7 @@ We are trying to make a prediction of Cardiovascular disease based on multiple f
 
 ![image](MAPvsage.png)
 
-![image](MAPvsageBMIY.png)
+![image](MAPvsagevsBMIY.png)
 
 ## Factors
 1. MAP - Mean Arterial pressure

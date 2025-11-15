@@ -17,6 +17,11 @@ We are trying to make a prediction of Cardiovascular disease based on multiple f
 
 ![image](MAPvsagevsBMIY.png)
 
+![image](download8.png)
+
+![image](newplot.png)
+
+
 ## Factors
 1. MAP - Mean Arterial pressure
 2. Smoking

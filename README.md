@@ -37,7 +37,7 @@ Age Vs CVD
 
 ![image](newplot.png)
 
-BP Vs CVD
+BP Vs CVDs
 
 
 
